@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+  margin: auto;
+  margin-top: 10vh;
+  width: 80vw;
+  border: 1px solid black;
+  border-radius: 10px;
+  height: 80vh;
+  background-color: cadetblue;
+  overflow: scroll;
+}
+
+
